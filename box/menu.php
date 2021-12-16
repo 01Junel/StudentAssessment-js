@@ -1,3 +1,12 @@
+<?php 
+    if(!isset($_SESSION['user']))
+    {
+        $_SESSION['xss']="<div class='error'>Please login to access control panel</div>";
+        header('location:'.SITEURL.'admin/login.php');
+    }
+?>
+
+
 <!--Navigation Starts Here-->
         <nav class="menu">
             <div class="wrapper">
