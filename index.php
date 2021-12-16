@@ -60,10 +60,10 @@
                         </p>
                     </div>
                     
-                    <a href="login.html">
+                    <a href="login.php">
                         <button type="button" class="btn-go">I'm a Student</button>
                     </a>
-                     <a href="admin/login.html">
+                     <a href="admin/login.php">
                         <button type="button" class="btn-go">Admin</button>
                     </a>
                   <!--  <a href="<?php echo SITEURL; ?>index.php?page=logout">
