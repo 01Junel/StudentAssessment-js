@@ -47,12 +47,12 @@
             <div class="wrapper">
                 
                 <ul>
-                    <a href="index.html"><li>Home</li></a>
-                    <a href="developers.html"><li>Developers</li></a>
-                    <a href="contacts.html"><li>Contacts</li></a>
-                    <a href="student.html"><li>Students</li></a>
-                    <a href="question.html"><li>Questions</li></a>
-                    <a href="result.html"><li>Result</li></a>
+                    <a href="index.php"><li>Home</li></a>
+                    <a href="developers.php"><li>Developers</li></a>
+                    <a href="contacts.php"><li>Contacts</li></a>
+                    <a href="student.php"><li>Students</li></a>
+                    <a href="question.php"><li>Questions</li></a>
+                    <a href="result.php"><li>Result</li></a>
                     
                     
                     <!--<a href="<?php echo SITEURL; ?>admin/index.php?page=students"><li>Students</li></a>
@@ -60,7 +60,7 @@
                     <a href="<?php echo SITEURL; ?>admin/index.php?page=questions"><li>Questions</li></a>
                     <a href="<?php echo SITEURL; ?>admin/index.php?page=results"><li>Results</li></a>
                     <a href="<?php echo SITEURL; ?>admin/index.php?page=settings"><li>Settings</li></a>-->
-                    <a href="../index.html" onclick="return confirm('Are you sure?')"><li>Log Out</li></a>
+                    <a href="../index.php" onclick="return confirm('Are you sure?')"><li>Log Out</li></a>
                 </ul>
             </div>
         </nav>
@@ -89,7 +89,7 @@
                             <div class="logo2">
                     <img src="../images/programmer.png" alt="GABAY" title="STUDENT ASSESSMENT" />
                 </div>
-                            <a href="question.html">
+                            <a href="question.php">
                         <button type="button" class="btn-go">Programmer</button>
                     </a>
                         
@@ -99,7 +99,7 @@
                        <div class="logo2">
                     <img src="../images/Designer.png" alt="GABAY" title="STUDENT ASSESSMENT" />
                 </div>
-                     <a href="question.html">
+                     <a href="question.php">
                         <button type="button" class="btn-go">Designer</button>
                     </a>
                         
@@ -110,7 +110,7 @@
                      <div class="logo2">
                     <img src="../images/researcher.png" alt="GABAY" title="STUDENT ASSESSMENT" />
                 </div>
-                      <a href="question.html">
+                      <a href="question.php">
                         <button type="button" class="btn-go">Researcher</button>
                     </a>
                     </div>
@@ -121,7 +121,7 @@
                      <div class="logo2">
                     <img src="../images/researcher.png" alt="GABAY" title="STUDENT ASSESSMENT" />
                 </div>
-                      <a href="question.html">
+                      <a href="question.php">
                         <button type="button" class="btn-go">Researcher</button>
                     </a>
                     </div>
@@ -131,13 +131,13 @@
                      <div class="logo2">
                     <img src="../images/Designer.png" alt="GABAY" title="STUDENT ASSESSMENT" />
                 </div>
-                      <a href="question.html">
+                      <a href="question.php">
                         <button type="button" class="btn-go">Designer</button>
                     </a>
                     </div>
                     
                     
-                  <!--  <a href="index.html">
+                  <!--  <a href="index.php">
                         <button type="button" class="btn-exit">&nbsp; Quit &nbsp;</button>
                     </a> -->
                 </div>
