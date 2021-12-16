@@ -52,12 +52,12 @@
             <div class="wrapper">
                 
                 <ul>
-                    <a href="welcome.html"><li>Home</li></a>
-                    <a href="developers.html"><li>Developers</li></a>
-                    <a href="contacts.html"><li>Contacts</li></a>
-                  <!--  <a href="student.html"><li>Students</li></a>
-                    <a href="question.html"><li>Questions</li></a>
-                    <a href="result.html"><li>Result</li></a> -->
+                    <a href="welcome.php"><li>Home</li></a>
+                    <a href="developers.php"><li>Developers</li></a>
+                    <a href="contacts.php"><li>Contacts</li></a>
+                  <!--  <a href="student.php"><li>Students</li></a>
+                    <a href="question.php"><li>Questions</li></a>
+                    <a href="result.php"><li>Result</li></a> -->
                     
                     
                     <!--<a href="<?php echo SITEURL; ?>admin/index.php?page=students"><li>Students</li></a>
@@ -121,7 +121,7 @@
                     </div>
                     
                     
-                    <a href="index.html">
+                    <a href="index.php">
                         <button type="button" class="btn-exit">&nbsp; Quit &nbsp;</button>
                     </a>
                 </div>
