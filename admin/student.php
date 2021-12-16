@@ -47,10 +47,10 @@
             <div class="wrapper">
                 
                 <ul>
-                    <a href="managetracks.html"><li>Manage Tracks</li></a>
-                    <a href="manage-exam.html"><li>Manage Exam</li></a>
-                    <a href="student.html"><li>Manage Students</li></a>
-                    <a href="../index.html" onclick="return confirm('Are you sure?')"><li>Log Out</li></a>
+                    <a href="managetracks.php"><li>Manage Tracks</li></a>
+                    <a href="manage-exam.php"><li>Manage Exam</li></a>
+                    <a href="student.php"><li>Manage Students</li></a>
+                    <a href="../index.php" onclick="return confirm('Are you sure?')"><li>Log Out</li></a>
                     
                 </ul>
             </div>
