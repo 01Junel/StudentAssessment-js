@@ -38,7 +38,7 @@
 <!--Body Starts Here-->
         <div class="main">
             <div class="login">
-                <form method="" action="managetracks.html">
+                <form method="" action="managetracks.php">
                     <h2>Admin | Log In</h2>
                   <!--  <?php 
                         if(isset($_SESSION['validation']))
