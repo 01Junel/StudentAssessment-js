@@ -47,7 +47,7 @@
 <!--Body Starts Here-->
         <div class="main">
             <div class="login">
-                <form method="" action="welcome.html">
+                <form method="" action="welcome.php">
                     <h2>Log In</h2>
                 <!--    <?php 
                         if(isset($_SESSION['invalid']))
