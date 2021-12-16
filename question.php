@@ -127,7 +127,7 @@
                             //Checking ALl Answered Questions
                             
                         ?> -->
-                        <form method="" action="result.html">
+                        <form method="" action="result.php">
                             <!--Question Starts Here-->
                            
              
@@ -204,7 +204,7 @@
                             <div class="buttons">
                                 <input type="submit" name="submit" value="Submit" class="btn-go" />
                                 
-                                <a href="index.html">
+                                <a href="index..php">
                                     <button type="button" class="btn-exit">&nbsp; Quit &nbsp;</button>
                                 </a>
                             </div>
